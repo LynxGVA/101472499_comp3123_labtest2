@@ -19,7 +19,7 @@ https://api.openweathermap.org/data/2.5/weather
 
 ## Deployment
 The app is hosted on Vercel:  
-https://<your-vercel-url>
+https://101472499-comp3123-labtest2-mkgd.vercel.app/
 
 ## Screenshots:
 
