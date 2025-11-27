@@ -23,8 +23,8 @@ https://<your-vercel-url>
 
 ## Screenshots:
 
-### Main Screen
-![Main Screen](./public/screenshots/screenshot1.png)
+### Weather Menu
+![Weather Menu](./public/screenshots/WeatherMenu.png)
 
-### Weather Result
-![Weather](./public/screenshots/screenshot2.png)
+### PostMan Test
+![PostMan Test](./public/screenshots/PostmanTest.png)
